@@ -1,6 +1,8 @@
 # Practice
-ссылка - https://github.com/MoneyOrMurda/Practice
+Ссылка - https://github.com/MoneyOrMurda/Practice
+
 Всего тестов - 20 тестов
+
 Тестовое покрытие - 100%
 
 
