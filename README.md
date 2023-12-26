@@ -1,9 +1,13 @@
 # Practice
+
 Ссылка - https://github.com/MoneyOrMurda/Practice
+
 
 Всего тестов - 20 тестов
 
+
 Тестовое покрытие - 100%
+
 
 
 ![image](https://github.com/MoneyOrMurda/Practice/blob/main/image1.jpg)
